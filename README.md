@@ -10,6 +10,7 @@
 
 ⚙️Control LEDs by LDR read and Fan speed (PWM) by LM35 reads.
 ‎
+
 ⚙️A smart door lock control by servo, and password (Saved in EEPROM) from Keypad displayed in LCD. ‎
 
 
